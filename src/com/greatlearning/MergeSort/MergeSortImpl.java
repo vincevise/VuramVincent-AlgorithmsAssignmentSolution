@@ -1,4 +1,4 @@
-package com.vincent;
+package com.greatlearning.MergeSort;
 
 public class MergeSortImpl {
 

@@ -1,7 +1,7 @@
-package com.vincent;
+package com.greatlearning.Display;
 
 public class Display {
-    void DisplayRise(double[] arr, boolean[] compare){
+    public void DisplayRise(double[] arr, boolean[] compare){
         int count = 0;
         for (int i = 0; i < arr.length; i++) {
 
@@ -15,7 +15,7 @@ public class Display {
 
     }
 
-     void DisplayDown(double[] arr, boolean[] compare){
+     public void DisplayDown(double[] arr, boolean[] compare){
         int count = 0;
         for (int i = 0; i < arr.length; i++) {
 

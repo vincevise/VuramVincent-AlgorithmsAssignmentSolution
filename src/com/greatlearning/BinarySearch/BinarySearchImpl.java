@@ -1,9 +1,9 @@
-package com.vincent;
+package com.greatlearning.BinarySearch;
 
 public class BinarySearchImpl {
 
 
-     void BinarySearch(double[] arr, double target){
+     public void BinarySearch(double[] arr, double target){
         int start = 0;
         int end = arr.length - 1;
 
